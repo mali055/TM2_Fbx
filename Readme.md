@@ -3,7 +3,7 @@
 
 This is the report for the second Tools and Middleware's assignment. This project was a Solo project by Mohammad Ali. Originally supposed to be a team project this turned out to have some short comings due to the limitations.
 
-![Example](https://github.com/mali055/TM2_Fbx/assignment%20raven%20weapon.FBX.svg)
+![Example](https://github.com/mali055/TM2_Fbx/blob/master/assignment%20raven%20weapon.FBX.svg)
 
 ### The script
 I use the Fbx Python bindings to extract a data structure of the fbx file and translate that into a structure usable for the SVG file format. It was a little bit of a challenge as it was the first project using python and the documentation for the Fbx pythong binding seemed to be for the C++ version.
